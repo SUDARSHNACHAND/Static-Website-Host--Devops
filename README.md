@@ -23,12 +23,18 @@ towards a DevOps and Cloud Engineering career.
 ## Run Locally
 Open `index.html` in your browser.
 
-## Deployment
-1. Push the project to GitHub.
-2. Open repository Settings → Pages.
-3. Select Deploy from a branch.
-4. Select `main` and `/ (root)`.
-5. Click Save and wait for deployment.
+## Deployment & Hosting
+
+The static website is deployed and hosted live using **GitHub Pages**:
+
+![Host a Static Website with GitHub Pages](screenshots/github-pages-deployment.png)
+
+### Steps Followed for Deployment:
+1. Pushed the project repository to GitHub (`main` branch).
+2. Navigated to repository **Settings** → **Pages**.
+3. Under **Build and deployment**, selected **Deploy from a branch**.
+4. Chose branch `main` and folder `/ (root)`.
+5. Saved and confirmed deployment. Website is live at the official GitHub Pages URL.
 
 ## Career Goal
 Develop practical skills in Linux, Git, Docker, CI/CD,
