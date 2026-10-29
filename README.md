@@ -4,6 +4,8 @@
 A responsive static website for planning and tracking my journey
 towards a DevOps and Cloud Engineering career.
 
+🔗 **Live Website**: [https://sudarshnachand.github.io/Static-Website-Host--Devops/](https://sudarshnachand.github.io/Static-Website-Host--Devops/)
+
 ## Features
 - Four-phase learning roadmap for 2027
 - Interactive skill completion checklist
